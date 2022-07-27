@@ -5,3 +5,29 @@ background-size: cover;
 background-repeat: repeat;
 color: #fff;
 }
+
+
+h1{
+  text-align: center;
+}
+P{
+  text-align: center;
+}
+li{
+  text-align: center;
+}
+
+
+.box{
+  background-color: #C9DCB3;
+  box-shadow: 10px 10px 12px 2px grey;
+  border-radius: 25px;
+}
+#nav-list li{
+  display: inline-block;
+
+}
+#nav-list li a:hover{
+color: #C6CA53;
+background-color: black;
+}
