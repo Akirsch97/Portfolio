@@ -1,0 +1,41 @@
+body{
+  background-color: White;
+  font-family: sans-serif;
+}
+/* Header, footer */
+#header,#footer{
+  background-color: #000;
+  color: #049993;
+padding: 12px;
+padding-left: 5px;
+
+}
+
+/* formerly nav */
+#nav ul li{
+  display: inline;
+  list-style-type: none;
+}
+
+
+ul{
+  padding-left: 2px;
+}
+
+
+a{
+  color: #000;
+}
+/* Formerly Main */
+#main{
+  background-color: #049993;
+  padding: 12px;
+}
+/*Formerly Section */
+.section{
+  background-color: #c4c5c6;
+  padding: 12px;
+}
+#section1{
+  margin-bottom: 6px;
+}
