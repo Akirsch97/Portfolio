@@ -1,0 +1,41 @@
+
+
+
+
+
+
+header{
+  font-family: "Bebas Neue", sans-serif;
+
+}
+
+
+
+Table{
+font-family: "Bebas Neue", sans-serif;
+margin: auto;
+
+}
+
+
+Td{
+padding: 5px 10px;
+font-size: 14pt;
+
+}
+
+th{
+  padding: 5px 10px;
+background-color: #FFDCCC;
+font-size: 14pt;
+
+}
+
+tr{
+  border-bottom: 2px solid ##FFDCCC;
+}
+
+tr:hover{
+  background: #FFF9EC;
+}
+}
